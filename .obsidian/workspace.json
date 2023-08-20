@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5683ba9981c5f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Daily Agenda/2023-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Daily Agenda/2023-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Daily Agenda/2023-08-11.md"
               }
             }
           }
@@ -171,13 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5683ba9981c5f46",
+  "active": "454a9a9522832cf9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Daily Agenda/2023-08-11.md",
     "Daily Agenda/2023-08-10.md",
     "Project Related Diagrams/Home Page Layout.png",
     "Project Related Diagrams/Profile Page layout.png",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "Project Related Diagrams/Documentation Structure.canvas",
     "Project Related Diagrams/Agile Methodology.canvas",
