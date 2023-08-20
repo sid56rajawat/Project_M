@@ -13,4 +13,6 @@
 - [Setting up nodemon and express](https://www.youtube.com/watch?v=w3vs4a03y3I&ab_channel=ArpanNeupane)
 - [How JWT works and Why to use it?](https://www.youtube.com/watch?v=7Q17ubqLfaM&ab_channel=WebDevSimplified)
 - [JWT authentication tutorial](https://www.youtube.com/watch?v=mbsmsi7l3r4&ab_channel=WebDevSimplified)
+- [Refresh token implementation in node.js](https://dev.to/chafroudtarek/refresh-token-implementation-in-nodejs-with-typescript-33ed)
+- [Refresh token implementation in react.js](https://dev.to/chafroudtarek/refresh-token-implementation-in-nodejs-with-typescript-33ed)
 - 
