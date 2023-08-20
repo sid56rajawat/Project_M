@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ba1a760d51d2f88",
+            "id": "b52aea9498f6fe73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "454a9a9522832cf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Agenda/2023-08-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5683ba9981c5f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Agenda/2023-08-11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Agenda/2023-08-11.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Agenda/2023-08-11.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,14 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba1a760d51d2f88",
+  "active": "c5683ba9981c5f46",
   "lastOpenFiles": [
-    "Daily Agenda/2023-08-10.md",
     "Daily Agenda/2023-08-11.md",
-    "Resources/Useful Links.md",
-    "Project Related Diagrams/Agile Methodology.canvas",
+    "Daily Agenda/2023-08-10.md",
+    "Project Related Diagrams/Home Page Layout.png",
+    "Project Related Diagrams/Profile Page layout.png",
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Project Related Diagrams/Documentation Structure.canvas",
+    "Project Related Diagrams/Agile Methodology.canvas",
     "Daily Agenda/2023-08-04.md",
+    "Resources/Useful Links.md",
     "Daily Agenda/2023-08-06.md",
     "Daily Agenda/2023-08-08.md",
     "Misc/sprint_backlog.png",
@@ -165,8 +194,6 @@
     "Project Documentation/Product Documentation",
     "Project Documentation",
     "Project Related Diagrams/Repository Structure.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
     "Project Related Diagrams",
     "Daily Agenda",
     "Resources"
