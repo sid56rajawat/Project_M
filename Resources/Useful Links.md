@@ -15,4 +15,4 @@
 - [JWT authentication tutorial](https://www.youtube.com/watch?v=mbsmsi7l3r4&ab_channel=WebDevSimplified)
 - [Refresh token implementation in node.js](https://dev.to/chafroudtarek/refresh-token-implementation-in-nodejs-with-typescript-33ed)
 - [Refresh token implementation in react.js](https://dev.to/chafroudtarek/refresh-token-implementation-in-nodejs-with-typescript-33ed)
-- 
+- [Web Dev setup for windows](https://www.youtube.com/watch?v=-atblwgc63E&ab_channel=Fireship)
